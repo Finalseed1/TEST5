@@ -4,8 +4,13 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World\n";
-	cout << "32498732498723";
+	int MyGold = 0;
+	float HP = 0.111242f;
+	char c = 'H';
+
+	cout << MyGold << endl;
+	cout << HP << endl;
+	cout << c << endl;
 
 	return 0;
 }
